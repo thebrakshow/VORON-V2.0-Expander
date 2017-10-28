@@ -12,3 +12,5 @@
 - Add pads for OMITTED 0.1uf decoupling capacitors. 
 - Add LED for VMOT (PWRIN) voltage
 - Consider adding a reverse current MOSFET for input protection 
+- Add (12V) inductive Z-probe header
+- Add resistor divider for Z-probe connected to D
